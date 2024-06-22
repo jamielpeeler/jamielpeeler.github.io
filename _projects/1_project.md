@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Risk Assessment
-description: with background image
+title: wildfire risk
+description: incorporating carbon storage as a highly valued resource in widely-used wildfire risk assessments
 img: assets/img/12.jpg
 importance: 1
 category: planning for carbon stewardship
