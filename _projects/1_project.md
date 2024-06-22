@@ -4,7 +4,7 @@ title: Risk Assessment
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: carbon stewardship
+category: planning for carbon stewardship
 related_publications: true
 ---
 
