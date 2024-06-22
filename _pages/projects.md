@@ -5,7 +5,7 @@ permalink: /projects/
 description: helping forests and people adapt to a new normal
 nav: true
 nav_order: 2
-display_categories: [carbon stewardship, recovering for resilience]
+display_categories: [planning for carbon stewardship, recovering for resilience]
 horizontal: false
 ---
 
