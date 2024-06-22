@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: helping forests and people adapt to a new normal
+description: 
 nav: true
 nav_order: 2
 display_categories: [planning for carbon stewardship, recovering for resilience]
