@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an applied landscape ecologist dedicated to helping forests and people adapt to a new wildfire normal. Much of my current research focuses on wildfire risk mitigation in the US West.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar.
+I was previously a [NatureNet Science Fellow](https://www.nature.org/en-us/about-us/who-we-are/our-science/naturenet-science-fellowships/) with The Nature Conservancy and University of Montana. I received my PhD and MS in Geography from Penn State University, where I worked with Dr. Erica Smithwick in the [LEAPS lab](https://sites.psu.edu/smithwick/). At Penn State, I funded my graduate research through grants from the National Science Foundation, National Geographic, Joint Fire Science Program, and NASA.
