@@ -1,7 +1,7 @@
 ---
 layout: page
 title: beneficial fire
-description: a project that redirects to another website
+description: assessing how prescribed fire impacts carbon storage, water yield, and recreation use
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
