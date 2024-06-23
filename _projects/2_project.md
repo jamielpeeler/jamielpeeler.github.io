@@ -1,8 +1,8 @@
 ---
 layout: page
-title: hot spots
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: carbon stability
+description: identifying opportunities to help carbon persist after wildfire
+img: assets/img/rx.jpg
 importance: 2
 category: planning for carbon stewardship
 giscus_comments: true
