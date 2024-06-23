@@ -2,7 +2,7 @@
 layout: page
 permalink: /science communication/
 title: science communication
-description: 
+description: helping forests and people adapt to the new wildfire normal
 nav: true
 nav_order: 5
 ---
