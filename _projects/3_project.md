@@ -2,7 +2,7 @@
 layout: page
 title: beneficial fire
 description: assessing how prescribed fire impacts carbon storage, water yield, and recreation use
-img: assets/img/7.jpg
+img: assets/img/rx.jpg
 redirect: 
 importance: 3
 category: planning for carbon stewardship
