@@ -2,7 +2,7 @@
 layout: page
 title: tree regeneration
 description: another without an image
-img:
+img: assets/img/regen.jpg
 importance: 1
 category: recovering for resilience
 ---
