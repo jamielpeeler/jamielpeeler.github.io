@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: helping forests and people adapt to the new wildfire normal
 nav: true
 nav_order: 3
 ---
