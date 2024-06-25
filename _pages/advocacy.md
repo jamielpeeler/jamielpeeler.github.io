@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /allyship/
-title: allyship
+permalink: /advocacy/
+title: advocacy
 description: helping forests and people adapt to the new wildfire normal
 nav: true
 nav_order: 6
