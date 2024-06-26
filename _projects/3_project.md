@@ -1,7 +1,7 @@
 ---
 layout: page
 title: beneficial fire
-description: assessing how prescribed fire impacts carbon storage, water yield, and recreation use
+description: assessing how prescribed fire impacts carbon storage, water yield, and recreation
 img: assets/img/rx_people.jpg
 redirect: 
 importance: 3
