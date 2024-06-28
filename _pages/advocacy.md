@@ -13,6 +13,6 @@ If you would like to learn more about Indigenous fire practices and US Native Hi
 
 [Indian Country 101 training](https://www.conservationtraining.org/course/view.php?id=309): The Whitener Group and The Nature Conservancy developed six courses that provide an overview of US Native History and a deep dive into Washington Tribes. They also provide resources on respectful tribal engagement for natural resource practioners.
 
-[Fire on the Land](https://fwrconline.csktnrd.org/Fire/index.html): The Confederated Salish and Kootenai Tribes Natural Resources Department developed a learning module about historic and contemporary fire use by the Salish and Pend d'Oreille Tribes.
-
 [Good Fire](https://karuktribeclimatechangeprojects.com/good-fire/): The Karuk Tribe hosts a digital story and report about barriers to cultural burning in California and recommended solutions.
+
+[Fire on the Land](https://fwrconline.csktnrd.org/Fire/index.html): The Confederated Salish and Kootenai Tribes Natural Resources Department developed a learning module about historic and contemporary fire use by the Salish and Pend d'Oreille Tribes.
