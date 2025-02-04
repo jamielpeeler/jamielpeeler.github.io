@@ -2,7 +2,7 @@
 layout: page
 permalink: /advocacy/
 title: advocacy
-description: helping forests and people adapt to the new wildfire normal
+description: helping forests and people adapt to the new climate normal
 nav: true
 nav_order: 6
 ---
