@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Peeler_CV_2Feb25.pdf
+cv_pdf: Peeler_CV_18March25.pdf
 description: helping forests and people adapt to the new climate normal
 ---
 </div>
