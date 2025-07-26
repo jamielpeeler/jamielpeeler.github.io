@@ -5,7 +5,7 @@ permalink: /projects/
 description: helping forests and people adapt to the new climate normal
 nav: true
 nav_order: 2
-display_categories: [planning for carbon stewardship, recovering for resilience]
+display_categories: [natural climate solutions, ecosystem resilience]
 horizontal: false
 ---
 
